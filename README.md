@@ -73,4 +73,16 @@ Este é um projeto acadêmico feito na instituição FIAP em conjunto com a empr
 <img src="https://store.fiaformulae.com/on/demandware.static/-/Sites-navigation-catalog-FE-S9/default/dw8427c471/LogosTeams/LogoMahindra2.png" alt="Logo Mahindra" width="300"/><img src="https://play-lh.googleusercontent.com/qRAt8XQzsRcEG7LGb7dwOBTuNocOV-lokZjZot4xwIv6wDfgAeFFB5HKkKb8VqZhHNc=w240-h480-rw" alt="Logo formulaE2" width="200"/> <img src="https://avatars.githubusercontent.com/u/79948663?s=200&v=4" alt="Logo FIAP" width="200"/>
 
 
+Equipe E-fficency:
+
+Camila Feitosa RM: 558808
+
+Gabriel Matiolli RM: 558963
+
+Gustavo Berlanga RM: 555298
+
+Leonardo Taschin RM: 554583
+
+Vinicius Gardim RM: 556013
+
 
